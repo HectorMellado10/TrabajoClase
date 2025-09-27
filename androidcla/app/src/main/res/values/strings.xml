@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Frases Motivacionales</string>
+    <string name="welcome_message" translatable="false">¡Bienvenido! Presiona el botón para recibir una frase motivacional</string>
+    <string name="motivate_me_button" translatable="false">¡Motívame!</string>
+    <string name="error_fetching_quote" translatable="false">Error al obtener la frase. Inténtalo nuevamente.</string>
+    <string name="network_error" translatable="false">Error de conexión. Verifica tu conexión a internet.</string>
+</resources>
